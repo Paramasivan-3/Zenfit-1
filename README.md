@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Authors
 
-- [@Paramasivan-3]([https://github.com/search?q=Paramasivan-3])
+- [@Paramasivan-3](https://github.com/search?q=Paramasivan-3)
 
 ## Badges
 
@@ -30,8 +30,8 @@ To Setup this project run
 
 ```
 
-git clone <https://github.com/shuence/FitClub>
-cd Fitclub
+git clone <https://github.com/Paramasivan/Zenfit>
+cd Zemfit
 yarn install
 yarn start
 
@@ -49,11 +49,11 @@ Contributions are always welcome!
 
 Please adhere to this project's `code of conduct`.
 
-# Hi, I'm Shuence! 👋
+# Hi, I'm Paramasivan-3! 👋
 
 ## 🚀 About Me
 
-I'm Shubham A FY B.Tech Student
+I'm Paramasivan V by B.E Student
 
 A Frontend Developer
 
@@ -63,4 +63,4 @@ Reactjs, Javascript, HTML, CSS
 
 ## Happy coding 💯
 
-Made with love from Shuence ❤️
+Made with love from Paramasivan ❤️
