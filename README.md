@@ -22,7 +22,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Zenfit ⛹️‍♂️](https://fittclub.netlify.app)
 
-![image](https://user-images.githubusercontent.com/65482186/222947174-1fcc8ae0-64b7-4d02-b81a-9f8c1f95dd31.png)
+![image](zenfit.png)
 
 ## Setup
 
