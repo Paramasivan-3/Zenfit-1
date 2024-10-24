@@ -1,7 +1,7 @@
 
-# FitClub ⛹️‍♂️
+# Zenfit ⛹️‍♂️
 
-FitClub : A best Fitness Club Landing Page In Reactjs 💫
+Zenfit : A best Zenfit Landing Page In Reactjs 💫
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Live Preview
 
-[Fitclub ⛹️‍♂️](https://fittclub.netlify.app)
+[Zenfit ⛹️‍♂️](https://fittclub.netlify.app)
 
 ![image](https://user-images.githubusercontent.com/65482186/222947174-1fcc8ae0-64b7-4d02-b81a-9f8c1f95dd31.png)
 
