@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Authors
 
-- [@Shuence](https://www.github.com/shuence)
+- [@Shuence]([https://github.com/search?q=Paramasivan-3])
 
 ## Badges
 
